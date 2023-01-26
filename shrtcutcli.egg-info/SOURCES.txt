@@ -1,0 +1,7 @@
+setup.py
+shrtcutcli.egg-info/PKG-INFO
+shrtcutcli.egg-info/SOURCES.txt
+shrtcutcli.egg-info/dependency_links.txt
+shrtcutcli.egg-info/entry_points.txt
+shrtcutcli.egg-info/requires.txt
+shrtcutcli.egg-info/top_level.txt
