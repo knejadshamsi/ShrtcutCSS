@@ -1,10 +1,12 @@
+========================================== syntax concept for future
+
 !html
-    p [full-full white-black flexcc] "hello "
+    p [full-full white-black flexcc] "hello"
         span "world"
 
 
 
-==========================================
+========================================== traditional
 
 
     <p class="p123234"> hello world </p>
